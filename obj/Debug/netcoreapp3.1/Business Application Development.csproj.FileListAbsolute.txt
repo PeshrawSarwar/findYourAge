@@ -1,0 +1,11 @@
+C:\Users\$PESHA$\Desktop\Business Application Development\bin\Debug\netcoreapp3.1\Business Application Development.exe
+C:\Users\$PESHA$\Desktop\Business Application Development\bin\Debug\netcoreapp3.1\Business Application Development.deps.json
+C:\Users\$PESHA$\Desktop\Business Application Development\bin\Debug\netcoreapp3.1\Business Application Development.runtimeconfig.json
+C:\Users\$PESHA$\Desktop\Business Application Development\bin\Debug\netcoreapp3.1\Business Application Development.runtimeconfig.dev.json
+C:\Users\$PESHA$\Desktop\Business Application Development\bin\Debug\netcoreapp3.1\Business Application Development.dll
+C:\Users\$PESHA$\Desktop\Business Application Development\bin\Debug\netcoreapp3.1\Business Application Development.pdb
+C:\Users\$PESHA$\Desktop\Business Application Development\obj\Debug\netcoreapp3.1\Business Application Development.csprojAssemblyReference.cache
+C:\Users\$PESHA$\Desktop\Business Application Development\obj\Debug\netcoreapp3.1\Business Application Development.AssemblyInfoInputs.cache
+C:\Users\$PESHA$\Desktop\Business Application Development\obj\Debug\netcoreapp3.1\Business Application Development.AssemblyInfo.cs
+C:\Users\$PESHA$\Desktop\Business Application Development\obj\Debug\netcoreapp3.1\Business Application Development.dll
+C:\Users\$PESHA$\Desktop\Business Application Development\obj\Debug\netcoreapp3.1\Business Application Development.pdb
