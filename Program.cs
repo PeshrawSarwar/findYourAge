@@ -7,8 +7,12 @@ namespace Business_Application_Development
         static void Main(string[] args)
         {
             var today = DateTime.Today;
-            var age = today.Year - 2001;
-            Console.WriteLine("You are "+age+" years old");
+            Console.WriteLine("Enter Your Age : ");
+            var Age = Console.ReadLine();
+            var yourAge = int.Parse(Age);
+
+            var yearOfBirth = today.Year - yourAge;
+            Console.WriteLine("You were born in : "+ yearOfBirth);
         }
     }
 }
