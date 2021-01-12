@@ -8,10 +8,10 @@ namespace Business_Application_Development
         {
             var today = DateTime.Today;
             Console.WriteLine("Enter Your Age : ");
-            var Age = Console.ReadLine();
-            var yourAge = int.Parse(Age);
+            String Age = Console.ReadLine();
+            int yourAge = int.Parse(Age);
 
-            var yearOfBirth = today.Year - yourAge;
+            int yearOfBirth = today.Year - yourAge;
             Console.WriteLine("You were born in : "+ yearOfBirth);
         }
     }
